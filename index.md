@@ -50,3 +50,5 @@ Aquí pondremos más cosillas
     <td>3</td>
   </tr>
 </table>
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/fb291e80-6c5e-44a8-a9aa-d5f78f3aa7f9" />
+
