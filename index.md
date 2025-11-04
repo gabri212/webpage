@@ -31,22 +31,22 @@ Aquí pondremos más cosillas
   </tr>
   <tr>
     <td>2</td>
-    <td>R.madrid</td>
-    <td>30</td>
+    <td>union molinese</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>R.madrid</td>
-    <td>30</td>
+    <td>san jose fc</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>R.madrid</td>
-    <td>30</td>
+    <td>Fc barca</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>R.madrid</td>
-    <td>30</td>
+    <td>villareal</td>
+    <td>3</td>
   </tr>
 </table>
