@@ -26,7 +26,8 @@ Aquí pondremos más cosillas
   </tr>
   <tr>
     <td>1</td>
-    <td>R.madrid<img width="69" height="69" alt="image" src="https://github.com/user-attachments/assets/fb291e80-6c5e-44a8-a9aa-d5f78f3aa7f9" /></td>
+    <td><img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/1392f054-c737-4dcd-b482-74f1114ff02f" />
+    <td>R.madrid<img /></td>
     <td>30</td>
   </tr>
   <tr>
