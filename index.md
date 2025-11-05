@@ -20,9 +20,10 @@ Aquí pondremos más cosillas
 ## Clasificacion de la liga 
 <table>
   <tr>
-    <th>pociciones</th>
-    <th>equipo</th>
-    <th>puntuacion</th>
+    <th>Posición</th>
+    <th>Escudo</th>
+    <th>Equipo</th>
+    <th>Puntuacion</th>
   </tr>
   <tr>
     <td>1</td>
