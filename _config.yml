@@ -2,6 +2,7 @@ title: Mi sitio web sencillo
 description: pagina creada con jekyll y Github Pages
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
-  - jekyll-include-cache
+  - jekyll-{% include_cached header.html %}
+
 
 
