@@ -1,7 +1,7 @@
 title: Mi sitio web sencillo
 description: pagina creada con jekyll y Github Pages
-remote_theme: "mmistakes/minimal-mistakes@4.16.0"  # Usar una versión anterior del tema
-gem "jekyll", "~> 4.2.0"  # O la versión que necesites
-
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-include-cache
 
 
