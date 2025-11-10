@@ -1,12 +1,11 @@
 ---
 layout: splash
 title: Inicio
-permalink: /splash/
+permalink: /splash-page/
 header:
  overlay-color: "000"  
  overlay-filter: "0" 
- overlay-imagen:<img width="320" height="158" alt="image" src="https://github.com/user-attachments/assets/732fc94a-9a85-4af8-a493-673ab88b5443" />
-
+ overlay-imagen:https://3.bp.blogspot.com/-wdk8M3w2JW0/VV8W1VwtVUI/AAAAAAAACLM/XUjxSpGrSXo/s320/LOGO%2BPRINCIPAL.bmp
 ---
 
 # Bienvenido a mi citio web: Gabriel Jose Valera  Gonzalez
