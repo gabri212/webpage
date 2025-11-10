@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Inicio
-permalink: /
+permalink: /splash/
 header:
  overlay-color: "000"  
  overlay-filter: "0" 
