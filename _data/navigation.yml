@@ -5,5 +5,5 @@ main:
     url: /acercade/
   - title: "Contacto"
     url: /contacto/
-  -title: Ciclos formativo
+  - title: "Ciclos formativos"
     url: /ciclos/
