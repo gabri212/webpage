@@ -28,7 +28,7 @@ permalink: /ciclos/
 |2|	Optativa	|80|
 
 ## Cuidados Auxiliares de Enfermería
- |Curso|	Módulo Profesional	|Horas totales|
+|Curso|	Módulo Profesional	|Horas totales|
 |1|	Operaciones administrativas y documentación sanitaria	|65|
 |1|Técnicas básicas de enfermería	|350|
 |1|	Higiene del medio hospitalario y limpieza de material	|155|
