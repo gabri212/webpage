@@ -1,5 +1,5 @@
 ---
-layout: sigle
+layout: single
 title: Ciclos formativo
 permalink: /ciclos/
 toc: true
