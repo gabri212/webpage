@@ -3,7 +3,7 @@ layout: single
 title: Ciclos formativo
 permalink: /ciclos/
 toc: true
-toc_label: selecciona tu sitio
+toc_label: selecciona tu ciclo
 
 ---
 
