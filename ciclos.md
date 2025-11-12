@@ -7,6 +7,9 @@ toc: true
 
 # C.F. de Grado Medio  
 # C.F. de Formación Profesional Básica
+## COMPETENCIA GENERAL
+
+Los requerimientos generales de cualificación profesional del sistema productivo para este técnico son: Proporcionar cuidados al paciente cliente y actuar sobre las condiciones sanitarias de su entorno como miembro de un equipo de enfermería o en los centros sanitarios de atención especializada y de atención primaria, bajo la dependencia del diplomado en enfermería o, en su caso, como miembro de un equipo de salud en la asistencia sanitaria derivada de la práctica del ejercicio liberal, bajo la supervisión correspondiente.
 
 ## Gestión Admnistrativa
 
