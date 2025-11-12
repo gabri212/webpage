@@ -7,12 +7,13 @@ permalink: /ciclos/
 # C.F. de Grado Medio  
 # C.F. de Formación Profesional Básica
 ## Gestión Admnistrativa
+
 |Curso|	Módulo Profesional	|Horas totales|
 |1|	Comunicación empresarial y atención al cliente	|135|
 |1|	Operaciones administrativas de compra-venta	|175|
-|1|	Empresa y Administración	105
+|1|	Empresa y Administración	|105|
 |1|	Tratamiento informático de la información	|280|
-|1|	Técnica contable	135
+|1|	Técnica contable	|135|
 |1|	Inglés profesional (GM)	|70|
 |1|	Itinerario personal para la Empleabilidad I	|90|
 |1|	Digitalización aplicada a los sectores productivos	|30|
@@ -25,6 +26,7 @@ permalink: /ciclos/
 |2|	Proyecto Intermodular	|50|
 |2|	Sostenibilidad aplicada al sistema productivo	|30|
 |2|	Optativa	|80|
+
 ## Cuidados Auxiliares de Enfermería
  |Curso|	Módulo Profesional	|Horas totales|
 |1|	Operaciones administrativas y documentación sanitaria	|65|
