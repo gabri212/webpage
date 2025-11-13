@@ -6,7 +6,7 @@ classes:
 header:
   overlay_color: "#fff"
   overlay_filter: "0"
-  overlay_image: "https://josemanuelguillen-dev.github.io/webpage/">
+  overlay_image: /assets/images/LOGO_FP_SALCEDA6.jpg
 caption: ""
 excerpt: ""
 ---
