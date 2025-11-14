@@ -20,3 +20,25 @@ Nuestro objetivo parte hacia dos vertientes:
 I.      Conseguir que el alumno adquiera una formación profesional suficiente habilitándolo para desempeñar una profesión de manera eficaz , sabiendo éste desenvolverse ante las posibles controversias que le puedan surgir en su puesto de trabajo.
 
 II.      Que  el alumno  adquiera una formación integral de su persona,  fomentando en él valores tales como: tolerancia, solidaridad, responsabilidad, compromiso, respeto.....Valores que fomenten  su desarrollo como individuo y le ayuden a afrontar los retos que presenta la sociedad actual.
+Secretaría
+
+ 
+
+   HORARIO: de 9:00 a 14:00 de lunes a viernes
+
+ DOCUMENTACIÓN PARA LA MATRICULACIÓN PRÓXIMO CURSO 2023/24
+
+ Archivos disponibles para descargar:
+
+CICLOS FORMATIVOS DE GRADO MEDIO (CFGM):
+SOLICITUD DE  TÍTULOS CFGM
+INSTRUCCIONES  SOLICITUD DE TÍTULOS CFGM
+MATRÍCULA CICLOS FORMATIVOS DE GRADO MEDIO
+AUTORIZACIÓN SALIDA ÚLTIMA HORA CFGM
+FORMACIÓN PROFESIONAL BÁSICA
+MATRÍCULA FP BÁSICA
+IMPRESOS COMUNES A TODAS LAS ENSEÑANZAS
+JUSTIFICANTE DE FALTAS
+JUSTIFICANTES DE RETRASOS
+JUSTIFICANTES DE SALIDAS EXTRAORDINARIAS
+AUTORIZACIÓN GENERAL DE SALIDAS
