@@ -24,7 +24,9 @@ I.      Conseguir que el alumno adquiera una formación profesional suficiente h
 II.      Que  el alumno  adquiera una formación integral de su persona,  fomentando en él valores tales como: tolerancia, solidaridad, responsabilidad, compromiso, respeto.....Valores que fomenten  su desarrollo como individuo y le ayuden a afrontar los retos que presenta la sociedad actual.
 Secretaría
 
- # HORARIO: de 9:00 a 14:00 de lunes a viernes
+
+ #  HORARIO: de 9:00 a 14:00 de lunes a viernes
+
 
  DOCUMENTACIÓN PARA LA MATRICULACIÓN PRÓXIMO CURSO 2023/24
 
